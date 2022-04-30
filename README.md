@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analytics and Data Visualizations
 - 🌱 I’m always learning something new and looking for new opportunities
 - 📫 Reach me at priyal.chotwani97@gmail.com
+- 🗨️ Website: www.priyalchotwani.com
 
 <!---
 PriyalChotwani/PriyalChotwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
